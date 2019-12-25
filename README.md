@@ -1,2 +1,2 @@
 # HahsSearch
-A search engine made with python, composed of a web-crawler and a simple page-rank algorithm
+Built a prototype search engine that uses a Depth-First Search web crawler, an index and the page rank algorithm developed by Larry Page, [PageRank](https://en.wikipedia.org/wiki/PageRank). The project helped reinforce my understanding on how search engines rank pages.
